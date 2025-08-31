@@ -63,8 +63,8 @@ Improve night-time lighting & signage.
 Strengthen high-speed & rural road safety.
 Heighten vigilance during DST transitions.
 
-👩‍🎓 Author: 刘增琦
-📚 Course: CASA0006 — Quantitative Methods (UCL)
+👩‍🎓 Author: Zengqi
+📚 Course: CASA0006 — Spatial Data Science(UCL)
 📅 Period: 2019–2023 UK DfT Road Safety Data
 
 Improve night-time lighting & signage.
